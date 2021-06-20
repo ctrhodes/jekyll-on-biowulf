@@ -1,3 +1,5 @@
+# to use browsers on Biowulf requires port forwarding. Easiest way to deal with this is use NoMachine or other vitual desktop and serve site to local host
+
 sinteractive
 module load ruby gcc/10.2.0
 
